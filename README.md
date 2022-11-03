@@ -1,7 +1,7 @@
 
 | 분류 | 주제 | 함수 | 설명 |
 | ---- | ---- | ---- | ---- |
-|사칙연산|[A+B-3](https://www.acmicpc.net/problem/10950)|[코드](https://github.com/chanwho/study_javas/blob/master/src/AplusBminus3.java)|코테 정리하는법
+|JAVA|[A+B-3](https://www.acmicpc.net/problem/10950)|[코드](https://github.com/chanwho/study_javas/blob/master/src/AplusBminus3.java)|코테 정리하는법
 
 
 
