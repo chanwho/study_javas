@@ -20,5 +20,9 @@ SPACE BAR나 ENTER 2번을 하면 엔터가됩니다
 
 ### 세번째 말머리
 
+
+
+
 | 분류 | 주제 | 함수 | 설명 |
 | ---- | ---- | ---- | ---- |
+|사칙연산|A+B-3|[코드](https://github.com/chanwho/study_javas/blob/master/src/AplusBminus3.java)|코테하는법
