@@ -39,8 +39,8 @@ public class AplusBminus3{
         System.out.println("두 숫자를 입력하세요 : ");
         int input_A = sc.nextInt();
         int input_B = sc.nextInt();
-        int sum = input_A + inp1ut_B;
-        System.out.println(sum);
+        int sum = input_A + input_B;
+        System.out.println(sum-3);
     }
 
     public static void main(String[] args) {
