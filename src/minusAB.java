@@ -15,6 +15,7 @@ public class minusAB {
         // 출력
         // 첫째 줄에 A-B를 출력한다.
         System.out.println(a-b);
+        sc.close();
     }
 
 }
