@@ -1,3 +1,12 @@
+
+| 분류 | 주제 | 함수 | 설명 |
+| ---- | ---- | ---- | ---- |
+|사칙연산|A+B-3|[코드](https://github.com/chanwho/study_javas/blob/master/src/AplusBminus3.java)|코테하는법
+
+
+
+
+
 ## 작성소스
 
 마크다운 언어를 사용합니다
@@ -22,7 +31,3 @@ SPACE BAR나 ENTER 2번을 하면 엔터가됩니다
 
 
 
-
-| 분류 | 주제 | 함수 | 설명 |
-| ---- | ---- | ---- | ---- |
-|사칙연산|A+B-3|[코드](https://github.com/chanwho/study_javas/blob/master/src/AplusBminus3.java)|코테하는법
